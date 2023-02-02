@@ -1,7 +1,6 @@
 ---
 sectionid: Module12Quiz
 sectionclass: h3
-is-parent: yes
 parent-id: Skillbuilder
 title: Module 12 Quiz
 number: 143120

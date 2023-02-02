@@ -1,7 +1,6 @@
 ---
 sectionid: Module7Quiz
 sectionclass: h3
-is-parent: yes
 parent-id: Skillbuilder
 title: Module 7 Quiz
 number: 14370

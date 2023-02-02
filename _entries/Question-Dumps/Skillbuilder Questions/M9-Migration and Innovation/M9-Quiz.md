@@ -1,7 +1,6 @@
 ---
 sectionid: Module9Quiz
 sectionclass: h3
-is-parent: yes
 parent-id: Skillbuilder
 title: Module 9 Quiz
 number: 14390

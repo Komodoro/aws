@@ -1,6 +1,6 @@
 ---
 sectionid: AWS_Sample_Quiz
-sectionclass: h3
+sectionclass: h2
 parent-id: Questions
 title: AWS Sample Quiz
 number: 14200

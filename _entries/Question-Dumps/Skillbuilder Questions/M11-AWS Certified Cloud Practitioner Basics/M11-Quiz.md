@@ -1,7 +1,6 @@
 ---
 sectionid: Module11Quiz
 sectionclass: h3
-is-parent: yes
 parent-id: Skillbuilder
 title: Module 11 Quiz
 number: 143110
