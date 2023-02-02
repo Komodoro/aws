@@ -647,7 +647,7 @@ C. Reliability
 
 D. Cost optimization
 
-**Correct Answer: C**
+**Correct Answer: B**
 
 ### Question 42/71
 
