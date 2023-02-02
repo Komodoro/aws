@@ -1,19 +1,21 @@
 ---
-sectionid: Dump3-21-01-2023
+sectionid: Dump321012023
 sectionclass: h2
 parent-id: Questions
-title: Dump - 21-01-2023
-number: 13100
+title: Dump 3 - 21-01-2023
+number: 3300
 ---
 
 NO.1 A retail company is migrating its IT infrastructure applications from on premises to the AWS
 Cloud.
 Which costs will the company eliminate with this migration? (Select TWO.)
+
 A. Cost of data center operations
 B. Cost of application licensing
 C. Cost of marketing campaigns
 D. Cost of physical server hardware
 E. Cost of network management
+
 Answer: A,D
 
 NO.2 Which of the following are AWS best practice recommendations for the use of AWS Identity
