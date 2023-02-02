@@ -430,7 +430,7 @@ C. Route tables and AWS Shield
 
 D. Security groups and a network intrusion system
 
-**Correct Answer: D**
+**Correct Answer: B**
 
 ### Question 28/71
 * Which of the following are design principles of the reliability pillar of the AWS Well-Architected Framework? (Select TWO.)
