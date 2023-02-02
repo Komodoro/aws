@@ -244,13 +244,13 @@ D. Encrypt data by using AWS Key Management Service (AWS KMS).
 * A company needs to report on events that involve the specific AWS services that the company uses.
 Which AWS service or resource can the company use with Amazon CloudWatch to meet this requirement?
 
-A. AWS Trusted Advisor
+A. Amazon Inspector
 
-B. AWS Cloud Trail logs
+B. AWS Personal Health Dashboard
 
-C. Amazon Inspector
+C. AWS Trusted Advisor
 
-D. AWS Personal Health Dashboard
+D. AWS CloudTrail logs
 
 **Correct Answer: D**
 
