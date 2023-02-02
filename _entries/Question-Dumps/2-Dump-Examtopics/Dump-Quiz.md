@@ -68,7 +68,7 @@ D. Reliability
 **Correct Answer: B**
 
 
-### Question #5 Topic 1
+### Question #5
 
 * A large company has multiple departments. Each department has its own AWS account. Each department has purchased Amazon EC2 Reserved Instances.
 Some departments do not use all the Reserved Instances that they purchased, and other departments need more Reserved Instances than they purchased.
@@ -148,3 +148,110 @@ D. Elimination of the cost of IT staff members
 E. Redundancy by default for all compute services
 
 Correct Answer: B, D
+
+### Question 10
+
+* A user is comparing purchase options for an application that runs on Amazon EC2 and Amazon RDS. The application cannot sustain any interruption. The application experiences a predictable amount of usage, including some seasonal spikes that last only a few weeks at a time. It is not possible to modify the application.
+Which purchase option meets these requirements MOST cost-effectively?
+
+
+A. Review the AWS Marketplace and buy Partial Upfront Reserved Instances to cover the predicted and seasonal load.
+
+B. Buy Reserved Instances for the predicted amount of usage throughout the year. Allow any seasonal usage to run on Spot Instances.
+
+C. Buy Reserved Instances for the predicted amount of usage throughout the year. Allow any seasonal usage to run at an On-Demand rate.
+
+D. Buy Reserved Instances to cover all potential usage that results from the seasonal usage.
+
+**Correct Answer: B**
+
+### Question #11
+
+* A company wants to review its monthly costs of using Amazon EC2 and Amazon RDS for the past year.
+Which AWS service or tool provides this information?
+
+A. AWS Trusted Advisor
+
+B. Cost Explorer
+
+C. Amazon Forecast
+
+D. Amazon CloudWatch
+
+**Correct Answer: B**
+
+### Question #12
+
+* A company wants to migrate a critical application to AWS. The application has a short runtime. The application is invoked by changes in data or by shifts in system state. The company needs a compute solution that maximizes operational efficiency and minimizes the cost of running the application.
+Which AWS solution should the company use to meet these requirements?
+
+A. Amazon EC2 On-Demand Instances
+
+B. AWS Lambda
+
+C. Amazon EC2 Reserved Instances
+
+D. Amazon EC2 Spot Instances
+
+**Correct Answer: B**
+
+### Question #13
+
+* Which AWS service or feature allows users to connect with and deploy AWS services programmatically?
+
+A. AWS Management Console
+
+B. AWS Cloud9
+
+C. AWS CodePipeline
+
+D. AWS software development kits (SDKs) 
+
+**Correct Answer: D**
+
+### Question #14
+
+* A company plans to create a data lake that uses Amazon S3.
+Which factor will have the MOST effect on cost?
+
+
+A. The selection of S3 storage tiers
+
+B. Charges to transfer existing data into Amazon S3
+
+C. The addition of S3 bucket policies
+
+D. S3 ingest fees for each request
+
+**Correct Answer: A**
+
+### Question #15
+
+* A company is launching an ecommerce application that must always be available. The application will run on Amazon EC2 instances continuously for the next
+12 months.
+What is the MOST cost-effective instance purchasing option that meets these requirements?
+
+
+A. Spot Instances
+
+B. Savings Plans
+
+C. Dedicated Hosts
+
+D. On-Demand Instances
+
+**Correct Answer: B**
+
+### Question #16
+
+* Which AWS service or feature can a company use to determine which business unit is using specific AWS resources?
+
+
+A. Cost allocation tags
+
+B. Key pairs
+
+C. Amazon Inspector
+
+D. AWS Trusted Advisor
+

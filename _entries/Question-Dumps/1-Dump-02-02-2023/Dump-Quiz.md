@@ -936,7 +936,7 @@ D. Ability to pick the specific data centers that will host the application serv
 
 E. Flexibility to scale up in minutes as the application becomes popular
 
-**Correct Answer: A,E**
+**Correct Answer: C,E**
 
 ### Question 62/71
 
