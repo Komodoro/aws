@@ -255,3 +255,81 @@ C. Amazon Inspector
 
 D. AWS Trusted Advisor
 
+**Correct Answer: A**
+
+### Question #17
+
+* A company wants to migrate its workloads to AWS, but it lacks expertise in AWS Cloud computing.
+Which AWS service or feature will help the company with its migration?
+
+
+A. AWS Trusted Advisor
+
+B. AWS Consulting Partners
+
+C. AWS Artifacts
+
+D. AWS Managed Services 
+
+**Correct Answer: D**
+
+### uestion #18 
+* Which AWS service or tool should a company use to centrally request and track service limit increases?
+
+A. AWS Config
+
+B. Service Quotas Most Voted
+
+C. AWS Service Catalog
+
+D. AWS Budgets
+
+**Correct Answer: B**
+
+### Question #19
+
+* Which documentation does AWS Artifact provide?
+
+
+A. Amazon EC2 terms and conditions
+
+B. AWS ISO certifications
+
+C. A history of a company's AWS spending
+
+D. A list of previous-generation Amazon EC2 instance types
+
+**Correct Answer: B**
+
+### Question #20
+
+* Which task requires using AWS account root user credentials?
+
+A. Viewing billing information
+
+B. Changing the AWS Support plan
+
+C. Starting and stopping Amazon EC2 instances
+
+D. Opening an AWS Support case
+
+**Correct Answer: B**
+
+### Question #21 Topic 1
+
+* A company needs to simultaneously process hundreds of requests from different users.
+Which combination of AWS services should the company use to build an operationally efficient solution?
+
+
+A. Amazon Simple Queue Service (Amazon SQS) and AWS Lambda
+
+B. AWS Data Pipeline and Amazon EC2
+
+C. Amazon Kinesis and Amazon Athena
+
+D. AWS Amplify and AWS AppSync
+
+**Correct Examtopic Answer: B** <- This is wrong obviously
+
+**Correct Community Answer: A**
+
